@@ -1,3 +1,11 @@
+# dom-to-image-fix 
+
+dom-to-image-fix is a library based on [dom-to-image](https://github.com/tsayen/dom-to-image) with some bug fix.
+
+
+below is the original README
+
+
 # DOM to Image
 
 [![Build Status](https://travis-ci.org/tsayen/dom-to-image.svg?branch=master)](https://travis-ci.org/tsayen/dom-to-image)
